@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">选项卡</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="main_home_str">首页</string>
+    <string name="main_zegapain_str">机器人</string>
+    <string name="main_tools_str">工具</string>
+
+    <!--TabTag-->
+    <string name="tab_home">tab_home</string>
+    <string name="tab_zegapain">tab_zegapain</string>
+    <string name="tab_tools">tab_tools</string>
+
+</resources>
